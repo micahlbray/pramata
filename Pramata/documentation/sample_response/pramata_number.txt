@@ -1,0 +1,335 @@
+{
+    "metadata": {
+        "pramata_number": "22430",
+        "effective_date": "2012-11-13",
+        "document_title": "Access to Property",
+        "company_group": "RBP Minneapolis",
+        "contract_type": "Access Letter",
+        "parent_pramata_number": null,
+        "pdf_url": "https://comcast-api-uat.pramata.com/services/data/v1/documents/22430/pdf"
+    },
+    "keyterms": {
+        "keyterm": [
+            {
+                "name": "AE - Document Title (Internal)",
+                "api_name": "Ae_Document_Title_Internal",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Document Title",
+                                "api_name": "Document_Title",
+                                "data": "Access to Property"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "AE - Document Type (Internal)",
+                "api_name": "Ae_Document_Type_Internal",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Document Type",
+                                "api_name": "Document_Type",
+                                "data": "Access Letter"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "AE - Contract Model (Internal)",
+                "api_name": "Ae_Contract_Model_Internal",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Contract Model",
+                                "api_name": "Contract_Model",
+                                "data": "Right of Entry"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Term, Renewal and Expiration Dates",
+                "api_name": "Term_Renewal_And_Expiration_Dates",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Key Dates",
+                                "api_name": "Key_Dates",
+                                "data": "2012-11-13"
+                            },
+                            {
+                                "name": "Date Type",
+                                "api_name": "Date_Type",
+                                "data": "Effective date"
+                            },
+                            {
+                                "name": "Term (Months)",
+                                "api_name": "Term_Months",
+                                "data": null
+                            },
+                            {
+                                "name": "Term Details and Renewals",
+                                "api_name": "Term_Details_And_Renewals",
+                                "data": "Perpetual or until terminated"
+                            },
+                            {
+                                "name": "Notice Period",
+                                "api_name": "Notice_Period",
+                                "data": null
+                            },
+                            {
+                                "name": "Note",
+                                "api_name": "Note",
+                                "data": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Address",
+                "api_name": "Address_Of_Leased_Space",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Address",
+                                "api_name": "Address_1",
+                                "data": "615 Washington Ave. SE"
+                            },
+                            {
+                                "name": "City",
+                                "api_name": "City",
+                                "data": "MINNEAPOLIS"
+                            },
+                            {
+                                "name": "State",
+                                "api_name": "State_Province",
+                                "data": "MN"
+                            },
+                            {
+                                "name": "ZIP",
+                                "api_name": "Zip_Postal_Code",
+                                "data": "55414"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Contract Status",
+                "api_name": "Contract_Status",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Status",
+                                "api_name": "Status",
+                                "data": "Current"
+                            },
+                            {
+                                "name": "Additional Information",
+                                "api_name": "Additional_Information",
+                                "data": null
+                            },
+                            {
+                                "name": "Referenced Document",
+                                "api_name": "Referenced_Document",
+                                "data": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "AE - Effective Date (Internal)",
+                "api_name": "Ae_Effective_Date_Internal",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Effective Date",
+                                "api_name": "Effective_Date",
+                                "data": "2012-11-13"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Customer Signatory",
+                "api_name": "Customer_Signatory",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Name",
+                                "api_name": "Name",
+                                "data": "Chuck McGuire"
+                            },
+                            {
+                                "name": "Title",
+                                "api_name": "Title",
+                                "data": "IT Manager"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Signature Status",
+                "api_name": "Signature_Status",
+                "terms": [
+                    {
+                        "is_nonstandard": null,
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Status",
+                                "api_name": "Status",
+                                "data": "Fully signed document"
+                            },
+                            {
+                                "name": "Which Party",
+                                "api_name": "Which_Party",
+                                "data": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Validator",
+                "api_name": "Validator",
+                "terms": [
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Validator",
+                                "api_name": "Validator",
+                                "data": "QA check 1"
+                            }
+                        ]
+                    },
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Validator",
+                                "api_name": "Validator",
+                                "data": "QA check 2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MDU",
+                "api_name": "Mdu",
+                "terms": [
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "MDU",
+                                "api_name": "Mdu",
+                                "data": "check"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Parcel Number",
+                "api_name": "Parcel_Number",
+                "terms": [
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Parcel Number",
+                                "api_name": "Parcel_Number",
+                                "data": "1234"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Building ID",
+                "api_name": "Building_Id",
+                "terms": [
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Building ID",
+                                "api_name": "Building_Id",
+                                "data": "080"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Area",
+                "api_name": "Area",
+                "terms": [
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Area",
+                                "api_name": "Area",
+                                "data": "Metro"
+                            }
+                        ]
+                    },
+                    {
+                        "is_nonstandard": "0",
+                        "is_amended": "0",
+                        "dataelements": [
+                            {
+                                "name": "Area",
+                                "api_name": "Area",
+                                "data": "Trunk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

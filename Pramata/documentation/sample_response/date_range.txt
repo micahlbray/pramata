@@ -1,0 +1,50 @@
+{
+    "pramataNumbers": [
+        {
+            "is_deleted": "false",
+            "pramata_number": "22371"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "22430"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "23278"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "23375"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "23480"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "23587"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "24114"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "24150"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "24456"
+        },
+        {
+            "is_deleted": "false",
+            "pramata_number": "24477"
+        }
+    ],
+    "date_range": [
+        {
+            "start_date_timestamp": "2018-02-01 00:00:00",
+            "end_date_timestamp": "2018-02-28 00:00:00"
+        }
+    ]
+}
